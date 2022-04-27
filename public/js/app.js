@@ -1,6 +1,3 @@
-console.log('clint side js loaded')
-
-
 
 const weatherform = document.querySelector('form')
 const search = document.querySelector('input')
